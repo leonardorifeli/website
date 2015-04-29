@@ -15,9 +15,9 @@ color:
 
 # Footer settings
 footer:
-  copyright: Leonardo Rifeli - <a href="" target="">MIT License</a> -
+  copyright: Leonardo Rifeli - <a href="http://leonardorifeli.mit-license.org/" target="_blank">MIT License</a> -
   location: Contatos
-  social: Around the Web
+  social: Mídias
   credits: MIT License
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -31,8 +31,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: leonardorifeli@gmail.com
-  - line: leonardorifeli@logatti.edu.br
+  - line: <a href="mailto:leonardorifeli@gmail.com">leonardorifeli@gmail.com</a>
+  - line: <a href="mailto:leonardorifeli@logatti.edu.br">leonardorifeli@logatti.edu.br</a>
 
 # Credits content
 credits: 'teste123'
